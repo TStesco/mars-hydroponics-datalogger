@@ -1,0 +1,2 @@
+Processing script to log data from microcontroller sensors on computer over serial bus. 
+Write up on mars hydroponics and hydrology experiments can be found at: https://tstesco.github.io/mars-hydroponics-hydrology/
